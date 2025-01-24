@@ -3,7 +3,6 @@
 A lightweight UNIX shell implementation in C supporting core shell functionalities and process management.
 
 [![C](https://img.shields.io/badge/C-99-blue)](https://www.gnu.org/software/gnu-c-manual/)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ## Features
 
